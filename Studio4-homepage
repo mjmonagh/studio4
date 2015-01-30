@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="utf-8">
+<style>
+body {
+    background-color: ivory;
+}
+h1 {
+    color: blue;
+    outline-color: blue;
+    margin-left: 40px;
+} 
+h2 {
+    color: blue;
+    outline-color: blue;
+    margin-left: 20px;
+} 
+h4 {
+	color: lime;
+	margin-left: 10px
+}
+</style>
+	<title>Mock Homepage</title>
+</head>
+
+<body>
+	<!--App name w/ buttons-->
+	<h4>Health @ Your Desk App</h4>
+		<a href>Exit app</a>
+	
+
+	<!--Timer w/ buttons-->
+	<h2>Suggested Break In:</h2>
+	<h1>0:58:32</h1> 
+		<a href>All Activities Page</a>
+		<a href>Out of Office: Pause timer</a>
+
+	
+	<ol>
+		<a href><h4>Daily Activity</h4></a>
+	</ol>
+		<img src="http://www.psdgraphics.com/wp-content/uploads/2009/02/blue-business-graph.jpg" style="width:250px;height:180px">
+	<ol>
+		<a href><h4>Susie 123: Health Metrics</h4></a>
+			<p>Level: 1<br>
+				Exp Points: 120<br>
+				AVG Steps: 6000<br>
+				Distance: 2.3 miles<br>
+				Calories: 156.7cal<br>
+				Active mins: 12min</p>
+	</o1>
+</body>
+</html>
+					
